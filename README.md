@@ -1,0 +1,1 @@
+# shelly-auto-off-charger
