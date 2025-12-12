@@ -44,7 +44,7 @@ aber weit unter jeder realen Ladeleistung.
 
 Das Script befindet sich hier:
 src/auto_off_15w_5min.js
-https://github.com/AndreDKrieger/shelly-auto-off-charger/blob/main/src/auto_off_15w_5min.js
+https://github.com/AndreDKrieger/shelly-auto-off-charger/blob/main/src/auto_off_charger_15w_5min.js
 
 1. Link öffnen
 2. Auf **Raw** klicken
