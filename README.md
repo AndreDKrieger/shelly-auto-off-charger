@@ -86,6 +86,9 @@ Nach einem Neustart läuft das Script automatisch weiter.
 
 - **Shelly Plug S Gen3** ✅  
   Getestet mit Firmware: **1.7.1 (20250924)**
+- **Shelly Plus Plug S** ✅
+  Getestet mit Firmware: **1.3.3 (20240625)**
+  Getestet mit Firmware: **1.7.1 (20250924)**
 - **Shelly Mini 1 PM Gen3** ✅  
   Getestet mit Firmware: **1.4.0 (20240726)**
 - **Shelly Plus 1 PM ** ✅  
