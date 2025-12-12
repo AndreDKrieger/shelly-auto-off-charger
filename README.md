@@ -44,6 +44,7 @@ aber weit unter jeder realen Ladeleistung.
 
 Das Script befindet sich hier:
 src/auto_off_15w_5min.js
+
 https://github.com/AndreDKrieger/shelly-auto-off-charger/blob/main/src/auto_off_charger_15w_5min.js
 
 1. Link öffnen
@@ -51,4 +52,75 @@ https://github.com/AndreDKrieger/shelly-auto-off-charger/blob/main/src/auto_off_
 3. Gesamten Inhalt markieren
 4. In die Shelly Weboberfläche kopieren
 
+---
+
+## Video-Anleitung (YouTube)
+
+Die vollständige Schritt-für-Schritt-Anleitung inklusive
+Hintergrund, Erklärung der Schwellenwerte und Live-Demonstration
+findet sich im zugehörigen YouTube-Video.
+
+YouTube-Kanal:  
+https://www.youtube.com/@AndreDKrieger
+
+👉 Das konkrete Video wird hier ergänzt, sobald es veröffentlicht ist.
+
+---
+
+## Installation (Shelly Weboberfläche)
+
+1. Shelly-Weboberfläche öffnen (`http://<IP-des-Shelly>`)
+2. Menü **Scripts** öffnen
+3. **Add script / Create script**
+4. Script-Code einfügen
+5. **Save**
+6. **Run on startup** aktivieren
+7. Script **Starten**
+8. Shelly ggf. **neu starten**
+
+Nach einem Neustart läuft das Script automatisch weiter.
+
+---
+
+## Getestete Geräte
+
+- **Shelly Plug S Gen3** ✅  
+  Getestet mit Firmware: **1.2.3 (20240820)**
+
+Weitere Shelly-Geräte werden später ergänzt.
+
+---
+
+## Bekannte Einschränkungen
+
+- Der **Shelly Plug S Gen3** zeigt eine dauerhaft blaue Status-LED
+  (WLAN/Matter), die firmwarebedingt nicht vollständig deaktiviert werden kann.
+- Für einen komplett unauffälligen Betrieb werden folgende Geräte empfohlen:
+  - Shelly Plus Plug S (Gen2)
+  - Shelly 1PM Mini Gen3
+  - Shelly 1 Pro PM Gen3
+
+---
+
+## Standalone-Betrieb
+
+- Keine Cloud erforderlich
+- Keine Internetverbindung erforderlich
+- Vollständig lokale Ausführung
+- Funktioniert auch nach Stromausfall automatisch weiter
+
+---
+
+## Sicherheitshinweis
+
+Dieses Script ist für Ladegeräte und kleine Verbraucher gedacht.  
+Die maximale Belastbarkeit des verwendeten Shelly-Geräts ist zu beachten.
+Nicht für Heizgeräte, große Motoren oder andere Hochlast-Verbraucher verwenden.
+
+---
+
+## Lizenz
+
+Dieses Projekt steht unter der **MIT License**.  
+Details siehe Datei `LICENSE`.
 
