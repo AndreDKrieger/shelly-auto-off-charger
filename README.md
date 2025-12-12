@@ -88,8 +88,8 @@ Nach einem Neustart läuft das Script automatisch weiter.
   Getestet mit Firmware: **1.7.1 (20250924)**
 - **Shelly Mini 1 PM Gen3** ✅  
   Getestet mit Firmware: **1.4.0 (20240726)**
-- **Shelly 1 PLUS PM ** ✅  
-  Getestet mit Firmware: **1.4.0 (20240726)**
+- **Shelly Plus 1 PM ** ✅  
+  Getestet mit Firmware: **1.3.3 (20240625)**
 - **Shelly 1 PM Gen3** ✅  
   Getestet mit Firmware: **1.3.3 (20240625)**
   Getestet mit Firmware: **1.7.1 (20250924)**
