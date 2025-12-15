@@ -98,16 +98,6 @@ Nach einem Neustart läuft das Script automatisch weiter.
   Getestet mit Firmware: **1.7.1 (20250924)**
 
 Nicht funktionsfähig mit Geräten der ersten Generation sowie "AZ" Serie
----
-
-## Bekannte Einschränkungen
-
-- Der **Shelly Plug S Gen3** zeigt eine dauerhaft blaue Status-LED
-  (WLAN/Matter), die firmwarebedingt nicht vollständig deaktiviert werden kann.
-- Für einen komplett unauffälligen Betrieb werden folgende Geräte empfohlen:
-  - Shelly Plus Plug S (Gen2)
-  - Shelly 1PM Mini Gen3
-  - Shelly 1 Pro PM Gen3
 
 ---
 
